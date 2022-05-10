@@ -3,11 +3,11 @@
 <div align="center">
 
 ![GitHub top language](https://img.shields.io/github/languages/top/KaiqueMCR/NLW-return-impulse-web?color=%23007acc)
-![GitHub](https://img.shields.io/github/license/NLW-return-impulse-web)
-![GitHub repo size](https://img.shields.io/github/repo-size/NLW-return-impulse-web)
-![GitHub issues](https://img.shields.io/github/issues/NLW-return-impulse-web)
-![GitHub forks](https://img.shields.io/github/forks/NLW-return-impulse-web)
-![GitHub stars](https://img.shields.io/github/stars/NLW-return-impulse-web)
+![GitHub](https://img.shields.io/github/license/KaiqueMCR/NLW-return-impulse-web)
+![GitHub repo size](https://img.shields.io/github/repo-size/KaiqueMCR/NLW-return-impulse-web)
+![GitHub issues](https://img.shields.io/github/issues/KaiqueMCR/NLW-return-impulse-web)
+![GitHub forks](https://img.shields.io/github/forks/KaiqueMCR/NLW-return-impulse-web)
+![GitHub stars](https://img.shields.io/github/stars/KaiqueMCR/NLW-return-impulse-web)
 
 </div>
 
@@ -25,7 +25,7 @@
 
 </div>
 
-<div align="center" >
+<div align="center">
   <img style="width: 250px" src="./.github/logo-NLW.png">
 </div>
 
