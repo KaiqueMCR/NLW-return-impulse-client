@@ -1,4 +1,4 @@
-# 🚀 Next Level Week #9
+# 🚀 Next Level Week #8
 
 <div align="center">
 
@@ -112,7 +112,7 @@ $ npm run dev
 2. Clone the project to your own machine
 3. Commit changes to your own branch
 4. Push your work back up to your fork
-5. Submit a Pull request so that we 5. can review your changes
+5. Submit a Pull request so that we can review your changes
 
 <br>
 
