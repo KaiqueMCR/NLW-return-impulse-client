@@ -75,7 +75,7 @@ to run this project you must have installed [Git](https://git-scm.com) and [Node
 1. Clone this repo with:
 
 ```bash
-$ git clone https://github.com/KaiqueMCR/NLW-return-impulse-web.git
+$ git clone https://github.com/KaiqueMCR/NLW-return-impulse-server.git
 ```
 
 2. Install all dependences with:
@@ -91,6 +91,12 @@ $ npm install
 ```
 
 3. Run dev server with:
+
+```bash
+$ yarn dev
+```
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or
 
 ```bash
 $ npm run dev
